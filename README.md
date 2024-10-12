@@ -12,7 +12,7 @@
 <h2>O que iremos trabalhar?</h2>
 <p>Dada a complexidade e o grande volume de dados envolvidos, utilizaremos <strong>Big Data</strong> com <strong>PySpark</strong>. Transformei os arquivos em <strong>Parquet</strong> para otimizar o armazenamento e melhorar a eficiência na leitura e processamento dos dados.</p>
 
-<p>Integraremos os dados do governo com informações de localização do IBGE para realizar uma análise geoespacial robusta. Através de técnicas estatísticas avançadas, como análise de séries temporais e modelagem preditiva, buscaremos identificar correlações significativas entre eventos climáticos extremos e as flutuações nos preços do GLP. Utilizaremos também visualizações dinâmicas para facilitar a interpretação dos resultados, permitindo uma compreensão mais clara das tendências.</p>
+<p>Integraremos os dados do governo com informações de localização do IBGE para realizar uma análise geoespacial. Através de técnicas estatísticas, como análise de séries temporais e modelagem preditiva, buscaremos identificar correlações significativas entre eventos climáticos extremos e as flutuações nos preços do GLP. Utilizaremos também visualizações dinâmicas para facilitar a interpretação dos resultados, permitindo uma compreensão mais clara das tendências.</p>
 
 <h2>Fontes</h2>
 <ul>
