@@ -17,7 +17,7 @@
 <h2>Fontes</h2>
 <ul>
     <li><strong>Cadastro Localidades:</strong> O Cadastro de Localidades Brasileiras Selecionadas fornece informações detalhadas sobre 21.304 localidades, incluindo coordenadas geográficas e altitudes médias.</li>
-    [[https://dados.gov.br/dados/conjuntos-dados/serie-historica-de-precos-de-combustiveis-e-de-glp](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/14126-asi-ibge-disponibiliza-coordenadas-e-altitudes-para-21304-localidades-brasileiras)](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/14126-asi-ibge-disponibiliza-coordenadas-e-altitudes-para-21304-localidades-brasileiras)
+    https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/14126-asi-ibge-disponibiliza-coordenadas-e-altitudes-para-21304-localidades-brasileiras
     <li><strong>Preço Combustíveis:</strong> A ANP monitora os preços do GLP por meio de uma pesquisa semanal, conforme estabelecido pela Lei do Petróleo (Lei nº 9478/1997).</li>
 </ul>
 https://dados.gov.br/dados/conjuntos-dados/serie-historica-de-precos-de-combustiveis-e-de-glp
