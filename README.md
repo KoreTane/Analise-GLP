@@ -7,7 +7,8 @@
 <body>
 
 <h1>Análise-GLP</h1>
-<p>Aqui visamos analisar a variação do preço do gás liquefeito de petróleo (GLP) no Brasil nos últimos dois anos, levantando uma curiosidade: <strong>será que os eventos climáticos extremos realmente impactaram as vendas e preços?</strong></p>
+<p>O objetivo desta análise é responder três perguntas principais: Os preços do GLP variam no Brasil? Quem está pagando mais? Quem está pagando menos?
+</strong></p>
 
 <h2>O que iremos trabalhar?</h2>
 <p>Dada a complexidade e o grande volume de dados envolvidos, utilizaremos <strong>Big Data</strong> com <strong>PySpark</strong>. Transformei os arquivos em <strong>Parquet</strong> para otimizar o armazenamento e melhorar a eficiência na leitura e processamento dos dados.</p>
