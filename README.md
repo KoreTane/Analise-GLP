@@ -29,7 +29,7 @@
 <h2>Quem Está Pagando Menos?</h2>
 <p>A região Sudeste é a que está pagando o menor valor no Brasil; lá, 1 em 4 consumidores pagam um valor abaixo da média, com o preço girando em torno de R$ 100,37. No Nordeste, 1 em 7 pessoas pagam um valor médio em torno de R$ 102,06.</p>
 <p>As maiores oscilações no preço ocorrem no terceiro trimestre do ano, possivelmente devido ao inverno, que aumenta a demanda por gás para geração de energia e aquecimento. Nos demais períodos do ano, o preço segue uma constante próxima à média. Vale salientar que, aparentemente, os valores no preço final do gás no Sul não sofreram alterações iminentes com os eventos climáticos extremos recentes.</p>
-<p>O consumidor, no geral, está pagando um valor menor em 2024 em relação a 2023, uma diferença de R$ 2,17.</p>
+<p>O valor médio de venda do gás diminuiu em 2024 em relação a 2023, cerca de R$ 2,17, o que acompanha a baixa da inflação, que foi de 5,79% em 2023 e reduziu para cerca de 4,5% em 2024.</p>
 
 <h2>A Bandeira Branca</h2>
 <p>A bandeira branca é a mais comercializada, responsável por cerca de 1/4 do consumo de gás do brasileiro. Ela apresenta os menores valores, principalmente por não estar associada a grandes marcas, evitando custos operacionais adicionais, menos gastos com marketing e estrutura.</p>
