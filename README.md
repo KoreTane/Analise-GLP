@@ -15,7 +15,7 @@
 
 <p>Integraremos os dados do governo com informações de localização do IBGE para realizar uma análise geoespacial. Através de técnicas estatísticas, como análise de séries temporais e modelagem preditiva, buscaremos identificar correlações significativas entre eventos climáticos extremos e as flutuações nos preços do GLP. Utilizaremos também visualizações dinâmicas para facilitar a interpretação dos resultados, permitindo uma compreensão mais clara das tendências.</p>
 
-<h2>Fontes</h2>
+
 
 <h2>Os Preços do GLP Variam no Brasil?</h2>
 <p>Na nossa análise, de um ano para o outro, não. Olhando geograficamente, sim, os preços do GLP variam significativamente no Brasil. O valor pago em média é de R$ 106,51, o desvio padrão está em 12,59 (essa será a referência de distância para valores abaixo e acima da média), ou seja, na maioria das vezes os valores pagos estão na faixa dos R$ 93,92 a R$ 119,10.</p>
